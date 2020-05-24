@@ -21,4 +21,4 @@
 * Seaborn Reg Plots 
 * Seaborn Pair Plot 
 
-
+<h4> Keep an eye on the medium because I will try to write about data science in the medium. Here you go: https://medium.com/@eliashossain9111</h4>
