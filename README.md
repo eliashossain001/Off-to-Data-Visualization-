@@ -9,4 +9,16 @@
 
 * Seaborn Bar Plot 
 * Seaborn Dist Plot 
+* Seaborn Box Plot 
+* Seaborn Strip Plot 
+* Seaborn PairGrid 
+* Seaborn Violin Plot 
+* Seaborn Clustermap 
+* Seaborn Heatmaps 
+* Seaborn FacetGrid 
+* Seaborn KDE Plot 
+* Seaborn Joint Plot 
+* Seaborn Reg Plots 
+* Seaborn Pair Plot 
+
 
