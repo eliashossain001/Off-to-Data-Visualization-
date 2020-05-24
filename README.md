@@ -4,3 +4,9 @@
 
 
 <h4>In the field of data science, data visualization is undoubtedly the top word today. Data visualization is the graphic representation of data. It involves producing images that communicate relationships among the represented data to viewers of the images. A data scientist's data visualization should be well known and that this the purpose of this repository. Since knowledge should be free, I have tried to share what I have with everyone. </h4>
+
+# What's in this repository?
+
+* Seaborn Bar Plot 
+* Seaborn Dist Plot 
+
